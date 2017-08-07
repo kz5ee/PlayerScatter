@@ -1,2 +1,2 @@
 # PlayerScatter
-Scatter players on spawn
+Spigot plugin to scatter players on spawn
